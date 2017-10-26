@@ -1,0 +1,16 @@
+Package: CCR
+Title: Fit the correspondence curve regression
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Feipeng", "Zhang", email = "zhangfp108@gmail.com", role = "cre"),
+    person("Qunhua", "Li", email = "qunhua.li@psu.edu", role = "aut"))
+Maintainer: Feipeng Zhang <zhangfp108@gmail.com>
+Description: An implementation of fitting the correspondence curve regression.
+    It can fit the correspondence curve regression model in the paper:
+    Li, Q. and Zhang, F. (2017). A regression framework for assessing covariate effects on the reproducibility of high-throughput experiments. 
+    Biometrics, http://dx.doi.org/http://dx.doi.org.
+Depends: R (>= 3.4.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
